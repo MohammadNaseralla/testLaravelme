@@ -171,7 +171,7 @@
       <workItem from="1604045788204" duration="7488000" />
       <workItem from="1604064449811" duration="3258000" />
       <workItem from="1604167069990" duration="2585000" />
-      <workItem from="1604250944360" duration="864000" />
+      <workItem from="1604250944360" duration="1765000" />
     </task>
     <servers />
   </component>
@@ -179,6 +179,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604252684326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604252684326" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1604252684325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604252684325" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1604252684325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604252684325" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1604252684325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604252684325" />
     <state x="604" y="335" key="NewPhpFileDialog" timestamp="1603973052024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
